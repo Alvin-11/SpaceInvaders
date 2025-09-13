@@ -1,0 +1,41 @@
+﻿  main.cpp
+C:\Users\bijua\source\repos\Space invaders\main.cpp(36,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\bijua\source\repos\Space invaders\main.cpp(37,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\bijua\source\repos\Space invaders\main.cpp(50,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\bijua\source\repos\Space invaders\main.cpp(51,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\bijua\source\repos\Space invaders\main.cpp(142,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\bijua\source\repos\Space invaders\main.cpp(143,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\bijua\source\repos\Space invaders\main.cpp(192,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\bijua\source\repos\Space invaders\main.cpp(198,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\bijua\source\repos\Space invaders\main.cpp(199,34): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\bijua\source\repos\Space invaders\main.cpp(224,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\bijua\source\repos\Space invaders\main.cpp(232,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\bijua\source\repos\Space invaders\main.cpp(268,82): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\bijua\source\repos\Space invaders\main.cpp(268,59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\bijua\source\repos\Space invaders\main.cpp(276,106): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\bijua\source\repos\Space invaders\main.cpp(276,71): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\bijua\source\repos\Space invaders\main.cpp(285,92): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\bijua\source\repos\Space invaders\main.cpp(285,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\bijua\source\repos\Space invaders\main.cpp(299,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\bijua\source\repos\Space invaders\main.cpp(333,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\bijua\source\repos\Space invaders\main.cpp(334,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\bijua\source\repos\Space invaders\main.cpp(351,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\bijua\source\repos\Space invaders\main.cpp(441,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\bijua\source\repos\Space invaders\main.cpp(442,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\bijua\source\repos\Space invaders\main.cpp(465,77): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\bijua\source\repos\Space invaders\main.cpp(465,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\bijua\source\repos\Space invaders\main.cpp(470,70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\bijua\source\repos\Space invaders\main.cpp(470,55): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\bijua\source\repos\Space invaders\main.cpp(475,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\bijua\source\repos\Space invaders\main.cpp(475,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\bijua\source\repos\Space invaders\main.cpp(486,62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\bijua\source\repos\Space invaders\main.cpp(486,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\bijua\source\repos\Space invaders\main.cpp(492,72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\bijua\source\repos\Space invaders\main.cpp(492,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\bijua\source\repos\Space invaders\main.cpp(498,86): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\bijua\source\repos\Space invaders\main.cpp(498,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 157 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Space invaders.vcxproj -> C:\Users\bijua\source\repos\Space invaders\x64\Release\Space invaders.exe
